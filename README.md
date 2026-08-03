@@ -18,7 +18,7 @@ Building scalable applications, solving real-world problems, and transforming da
 - 📊 Building expertise in **Data Analytics**
 - 🌱 Currently exploring **Django, FastAPI, SQL, Power BI & Excel**
 - 🚀 Passionate about building practical real-world applications
-- 🎯 Career Goal: Software Engineer specializing in **Python Backend & Data-Driven Applications**
+- 🎯 Goal: Become a Software Engineer specializing in Python Backend & Data-Driven Applications
 
 ---
 
@@ -39,14 +39,14 @@ Building scalable applications, solving real-world problems, and transforming da
 
 ### Data Analytics
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -56,8 +56,8 @@ Building scalable applications, solving real-world problems, and transforming da
 - Django REST Framework
 - FastAPI
 - SQL
-- Power BI
 - Data Analytics
+- Power BI
 - Git & GitHub
 
 ---
@@ -65,19 +65,19 @@ Building scalable applications, solving real-world problems, and transforming da
 ## 📂 Featured Projects
 
 ### 🌐 Portfolio Website
-Personal portfolio showcasing my projects, technical skills, and learning journey.
+Personal portfolio showcasing my projects, technical skills and learning journey.
 
 ### 🏥 DrMitra
 Doctor Search & Appointment Booking Web Application.
 
 ### 📊 AI-Powered Data Analytics Journey
-A complete documentation of my Data Analytics learning with hands-on projects.
+A complete documentation of my Data Analytics learning journey with practical projects.
 
 ### 🌦️ Weather Application
-Weather application using API integration.
+Responsive weather application with API integration.
 
 ### 📈 Excel Dashboards
-Sales Dashboard, Employee Salary Analysis & Expense Tracker.
+Sales Dashboard, Employee Salary Analysis and Expense Tracker.
 
 ---
 
@@ -109,28 +109,6 @@ Sales Dashboard, Employee Salary Analysis & Expense Tracker.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh23s&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh23s&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ritesh23s&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -144,7 +122,7 @@ Sales Dashboard, Employee Salary Analysis & Expense Tracker.
 </a>
 
 <a href="mailto:theshubhlab@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -153,6 +131,6 @@ Sales Dashboard, Employee Salary Analysis & Expense Tracker.
 
 <p align="center">
 
-⭐ Thank you for visiting my GitHub profile!
+⭐ Thanks for visiting my GitHub Profile!
 
 </p>

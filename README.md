@@ -14,11 +14,11 @@ Building scalable applications, solving real-world problems, and transforming da
 
 - 🎓 B.Tech Computer Science & Engineering Student
 - 💼 1 Year of Industrial Experience at **L&T Hydrocarbon Engineering Limited**
-- 🐍 Currently learning **Python Full Stack Development**
-- 📊 Building strong skills in **Data Analytics**
-- 🌱 Exploring **Django, FastAPI, SQL, Power BI & Excel**
-- 🚀 Passionate about building practical, real-world projects
-- 🎯 Goal: Become a Software Engineer specializing in Python Backend & Data-driven Applications
+- 🐍 Learning **Python Full Stack Development**
+- 📊 Building expertise in **Data Analytics**
+- 🌱 Currently exploring **Django, FastAPI, SQL, Power BI & Excel**
+- 🚀 Passionate about building practical real-world applications
+- 🎯 Career Goal: Software Engineer specializing in **Python Backend & Data-Driven Applications**
 
 ---
 
@@ -26,73 +26,69 @@ Building scalable applications, solving real-world problems, and transforming da
 
 ### Programming Languages
 
-- Python
-- SQL
-- HTML
-- CSS
-- JavaScript (Basic)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frameworks
 
-- Django
-- FastAPI
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Data Analytics
 
-- Microsoft Excel
-- Power BI
-- Data Analysis
-- Data Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Tools
 
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🚀 Current Learning
+## 🚀 Currently Learning
 
 - Python Full Stack Development
 - Django REST Framework
 - FastAPI
 - SQL
-- Data Analytics
 - Power BI
+- Data Analytics
 - Git & GitHub
-- Backend Development
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🌐 Portfolio Website
-Personal portfolio showcasing my projects, skills and learning journey.
+Personal portfolio showcasing my projects, technical skills, and learning journey.
 
 ### 🏥 DrMitra
-Doctor Search & Appointment Booking Website.
+Doctor Search & Appointment Booking Web Application.
 
 ### 📊 AI-Powered Data Analytics Journey
-A complete documentation of my Data Analytics learning journey with projects and practical exercises.
+A complete documentation of my Data Analytics learning with hands-on projects.
 
 ### 🌦️ Weather Application
 Weather application using API integration.
 
 ### 📈 Excel Dashboards
-Business dashboards including Sales Analysis, Employee Salary Analysis and Expense Tracker.
+Sales Dashboard, Employee Salary Analysis & Expense Tracker.
 
 ---
 
 ## 📜 Certifications
 
-- Ultimate Web Development Course 2025 – Udemy
-- Microsoft Learn – Introduction to Generative AI Concepts
-- Simplilearn – Prompt Engineering with GitHub Copilot
-- AI Powered Data Analytics Workshop
-- Gemini Certified Student
-- Introduction to Computer Networking
+- 🏆 Ultimate Web Development Course – Udemy
+- 🏆 Microsoft Learn – Introduction to Generative AI Concepts
+- 🏆 Prompt Engineering with GitHub Copilot
+- 🏆 AI Powered Data Analytics Workshop
+- 🏆 Gemini Certified Student
+- 🏆 Introduction to Computer Networking
 
 ---
 
@@ -100,31 +96,63 @@ Business dashboards including Sales Analysis, Employee Salary Analysis and Expen
 
 **L&T Hydrocarbon Engineering Limited**
 
-**Role:** EALPS Operator (Junior Piping Engineering Support)
+**Role:** EALPS Operator
 
-### Responsibilities
+### Key Responsibilities
 
-- Engineering documentation
-- Project documentation management
-- Quality documentation
-- Technical coordination
-- Analytical problem solving
-- Team collaboration
-
----
-
-## 🎯 Career Objective
-
-I am passionate about software development and data analytics. My goal is to build scalable applications, solve real-world problems through technology, and continuously improve my technical expertise while contributing to impactful software products.
+- Engineering Documentation
+- Technical Documentation
+- Project Documentation
+- Material Tracking
+- Team Collaboration
+- Analytical Problem Solving
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ritesh23s
-- 🌐 Portfolio: https://ritesh23s.github.io/portfolio/
-- 📧 Email: theshubhlab@gmail.com
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ritesh23s&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh23s&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ritesh23s&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ritesh23s">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://ritesh23s.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:theshubhlab@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my GitHub profile!
+
+</p>
